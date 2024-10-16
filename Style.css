@@ -1,0 +1,84 @@
+.top-bar {
+    background-color: #6c757d; /* Couleur gris */
+    color: white;
+  }
+  .container-fluid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .slogan {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    flex-grow: 1;
+  }
+  .social-icons {
+    display:flex,
+    justify-content: center; /* Centrer les icônes horizontalement */
+    margin :left 10px;
+    }
+
+
+  .social-icons a:hover {
+    color: #ab3333;
+  }
+  .btn-cv {
+    background-color: #D62828; /* Couleur du bouton CV */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+  .btn-cv:hover {
+    background-color: #b72222; /* Teinte plus foncée au survol */
+  }
+
+
+
+  body {
+    background-color: #003049;
+  }
+  .navbar {
+    background-color: #FAF3DD;
+  }
+  .navbar-brand {
+    font-weight: bold;
+  }
+  .navbar-nav .nav-link {
+    color: #000;
+  }
+  .navbar-nav .nav-link.active {
+    color: #D62828;
+  }
+  .btn-cv {
+    background-color: #D62828;
+    color: #fff;
+  }
+  .hero-section {
+    color: white;
+    text-align: left;
+    padding: 50px 0;
+  }
+  .hero-title {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  .hero-subtitle {
+    font-size: 1.5rem;
+  }
+  .hero-btn {
+    background-color: #D62828;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+  }
+  .profile-pic {
+    border: 5px solid #D62828;
+    border-radius: 50%;
+    width: 200px;
+  }
+
+  
+  
+  
